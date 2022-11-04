@@ -9,6 +9,8 @@ import Wave from '../images/wave.svg';
 
 import styles from './FeaturedSectionHome.module.scss';
 
+/* Author: Seah Jun Sheng, seah0223@e.ntu.edu.sg */
+
 const FeaturedSectionHome: React.FC<{}> = () => {
 
     const { screenWidth } = useWindowDimensions();
