@@ -6,6 +6,8 @@ import CardGridEmpty from './CardGridEmpty';
 
 import styles from './CardGrid.module.scss';
 
+/* Author: Seah Jun Sheng, seah0223@e.ntu.edu.sg */
+
 interface Props {
     animeList: AnimeList | null;
 }
