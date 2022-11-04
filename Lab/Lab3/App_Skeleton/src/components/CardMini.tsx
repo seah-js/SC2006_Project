@@ -8,6 +8,8 @@ import Rating from '../images/rating.svg';
 
 import styles from './CardMini.module.scss';
 
+/* Author: Seah Jun Sheng, seah0223@e.ntu.edu.sg */
+
 interface Props {
     anime: MediaMini;
     isRecommendation: boolean;
