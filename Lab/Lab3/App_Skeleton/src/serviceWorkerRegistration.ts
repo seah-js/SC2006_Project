@@ -10,6 +10,8 @@
 // To learn more about the benefits of this model and instructions on how to
 // opt-in, read https://cra.link/PWA
 
+/* Author: Seah Jun Sheng, seah0223@e.ntu.edu.sg */
+
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
     // [::1] is the IPv6 localhost address.
