@@ -8,7 +8,6 @@ import Clip from '../images/clip-slash-pink.svg';
 
 import styles from './AboutSectionHome.module.scss';
 
-/*Jun Sheng*/
 
 const AboutSectionHome: React.FC<{}> = () => {
 
